@@ -11,9 +11,8 @@
 # Установка
 
 ### 1. Клонировать репозиторий
-
-   git clone https://github.com/Ashkelon1337/library_API.git library-api
-   cd library-api
+    git clone https://github.com/Ashkelon1337/library_API.git
+    cd library_API
 ### 2. Создать и активировать виртуальное окружение
 
     #Windows
