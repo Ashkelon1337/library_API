@@ -12,7 +12,7 @@
 
 ### 1. Клонировать репозиторий
 
-   git clone https://github.com/твой-логин/library-api.git
+   git clone https://github.com/Ashkelon1337/library_API.git library-api
    cd library-api
 ### 2. Создать и активировать виртуальное окружение
 
